@@ -16,3 +16,5 @@ By the end of this session, you will have an interactive web application deploye
 **Build data index:** python build_index.py
 
 **Run app:** streamlit run streamlit_app.py
+
+<img width="1319" alt="Screenshot 2023-12-19 at 11 40 24 AM" src="https://github.com/hemant-manwani/blog-ai-assistant/assets/10157792/39dd1530-a25c-4fe6-b712-4656dc621bcb">
