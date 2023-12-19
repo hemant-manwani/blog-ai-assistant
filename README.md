@@ -1,3 +1,4 @@
+
 # Building a Blog AI assistant using Retrieval Augmented Generation
 
 ## Overview
@@ -8,7 +9,10 @@ By the end of this session, you will have an interactive web application deploye
 
 ## Step-By-Step Guide
 
-Install requirements: pip install -r requirements.txt
-Create data: python data_pipeline.py
-Build data index: python build_index.py
-Run app: streamlit run streamlit_app.py
+**Install requirements:** pip install -r requirements.txt
+
+**Create data:** python data_pipeline.py
+
+**Build data index:** python build_index.py
+
+**Run app:** streamlit run streamlit_app.py
